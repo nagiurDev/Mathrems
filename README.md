@@ -5,7 +5,7 @@ Welcome to Mathrem, a repository dedicated to mastering essential mathematical c
 ## Contents
 
 - **Linear Algebra**: Concepts related to vectors, matrices, transformations, and eigenvalues.
-- **Probability & Statistics**: Exploration of distributions, hypothesis testing, and descriptive statistics.
+- **Probability & Statistics**: Exploration of data distributions, hypothesis testing, and descriptive statistics.
 - **Calculus**: Fundamentals of derivatives, integrals, and limits.
 
 ## Goals
@@ -30,7 +30,7 @@ Mathrems/
 │   └── practice_notebooks/ # Jupyter notebooks for practice
 │
 ├── probability_statistics/  # Folder for probability and statistics topics
-│   ├── distributions/
+│   ├── data_distributions/
 │   ├── hypothesis_testing/
 │   ├── descriptive_stats/
 │   └── practice_notebooks/
